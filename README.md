@@ -3,14 +3,14 @@ This is a very simple roguelike that uses LibGDX. For the most part, the code is
 
 This project was originally called Jay, and I'm frankly terrified of Gradle, so I didn't want to change the same in case that broke everything; this is responsible for the somewhat unusual folder names. 
 
-Dependencies: 
+**Dependencies**: 
 
-LibGDX
+-LibGDX
 
-Android SDK if you want the Android part
+-Android SDK if you want the Android part
 
-Known issues:
+**Known issues**:
 
-"Android screens" are designed to use only buttons, but the buttons appear to be misplaced in my android simulator. 
+-"Android screens" are designed to use only buttons, but the buttons appear to be misplaced in my android simulator. 
 
-Have to swap in code between screen types. 
+-Have to swap in code between screen types. 
